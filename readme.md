@@ -1,0 +1,1 @@
+With this project I plan to throughoutly understand how a simple webpage with pictures and text can be coded. I love cooking and coding so hopefully it will be fun!
